@@ -45,8 +45,6 @@ STM32-based motor control system: PWM / FOC-style commutation, closed-loop speed
 - Rust / TypeScript backend & automation agents
 - Embedded firmware (STM32, motor control)
 
-**Process:** free remote demo first → pay only after it runs ✅
-
 📬 **Contact:** open to remote freelance — [start a discussion](https://github.com/hisayya/hisayya/issues)
 
 ---
