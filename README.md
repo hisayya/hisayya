@@ -1,40 +1,54 @@
-<div align="center">
+# 👋 Hi, I'm hisayya
 
-# 👋 Hey, I'm hisayya
+**Low-level systems & edge AI engineer · Singapore 🇸🇬**
 
-**Senior Engineer · Low-Level Systems Architecture · Blockchain / Web3**
-
-Rust · TypeScript · Python · Solidity · Go — from kernel-adjacent systems to smart contracts.
-
-</div>
+I build things that run *fast, small, and at the edge* — embedded firmware, Rust services, and AI model deployment on distributed edge nodes.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ What I Do
 
-| Layer | Stack |
+| 领域 | 技术 |
 |---|---|
-| **Low-Level / Systems** | Rust, C, tokio, async runtime, embedded (STM32 / ESP32 / RK3588) |
-| **Blockchain / Web3** | Solidity, Hardhat, DeFi protocols, tokenomics, smart contract deployment & ops |
-| **Backend / Full-Stack** | TypeScript, Node.js, Python, PostgreSQL, Redis |
-| **Edge / AI Infrastructure** | RKNN model conversion & edge deployment, 200+ distributed edge nodes, Cloudflare Workers, AI gateway routing |
-| **DevOps** | Linux, Docker, systemd, PM2, GitOps, monitoring & incident response |
+| **Low-level / Embedded** | C · Rust · STM32 · motor control |
+| **Edge AI Deployment** | RKNN · ONNX · 200+ distributed edge nodes · Cloudflare Workers |
+| **Backend & Automation** | TypeScript · Python · Rust agents · Docker / systemd / PM2 |
+| **Web3 Research** | Solidity · Hardhat (personal research only) |
 
-## 🚀 Highlight Projects
+---
 
-- **DeFi dApp (acid-dapp)** — smart contract suite (ACoin / MiningPool / NodeNFT / Referral / AMM / Insurance) with automated deployment & self-healing ops
-- **CF AI Gateway (cf-ai-gateway)** — free-tier multi-model routing on Cloudflare edge
-- **Lead-Gen Agent (Rust)** — strict-rules Rust automation for B2B lead acquisition
-- **Edge AI Deployment** — ONNX/PyTorch/TF models → RKNN, deployed to edge NPU with distributed benchmarking across 200+ nodes
+## 🚀 Featured Projects
 
-## 🟢 Available for Work
+### [cf-ai-gateway](https://github.com/hisayya/cf-ai-gateway) — Cloudflare Edge AI Gateway
+OpenAI-compatible multi-provider AI gateway on Cloudflare Workers: model routing, weighted load balancing, automatic failover, SSE streaming with keep-alive. **Zero-ops, serverless.**
 
-- Smart contract development / deployment / auditing support (open-source & licensed models only)
-- Edge AI: model conversion, quantization, on-device deployment
-- Rust / TypeScript / Python backend & tooling
-- AI agent & workflow automation
+### [global-lead-gen-agent](https://github.com/hisayya/global-lead-gen-agent) — Rust Lead Generation Agent
+A Rust agent that scans businesses worldwide for software-development opportunities: discovery → enrichment → scoring → diagnostics. Strict safe Rust (no `unsafe`), fully async.
 
-## 📬 Contact
+### [motor-control-system-project](https://github.com/hisayya/motor-control-system-project) — Embedded Motor Control
+STM32-based motor control system: PWM / FOC-style commutation, closed-loop speed & position control. *(learning/research project)*
 
-- GitHub: [@hisayya](https://github.com/hisayya)
-- Open to remote freelance & collaboration — reach out via GitHub or Telegram
+---
+
+## 📊 GitHub Stats
+
+![hisayya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisayya&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisayya&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 💼 Available for Work
+
+**I take on freelance projects:**
+- Edge AI model deployment (RKNN / ONNX on robot, camera, industrial boards)
+- Rust / TypeScript backend & automation agents
+- Embedded firmware (STM32, motor control)
+
+**Process:** free remote demo first → pay only after it runs ✅
+
+📬 **Contact:** open to remote freelance — [start a discussion](https://github.com/hisayya/hisayya/issues)
+
+---
+
+*Building in public — one commit at a time.*
