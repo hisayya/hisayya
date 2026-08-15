@@ -41,9 +41,11 @@ STM32-based motor control system: PWM / FOC-style commutation, closed-loop speed
 ## 💼 Available for Work
 
 **I take on freelance projects:**
-- Edge AI model deployment (RKNN / ONNX on robot, camera, industrial boards)
-- Rust / TypeScript backend & automation agents
-- Embedded firmware (STM32, motor control)
+- **Edge AI deployment** — model conversion (ONNX / PyTorch / YOLO / RKNN) → optimized on-device inference
+- **Distributed edge benchmarking** — stress-test your model across 200+ edge nodes and get a real perf/accuracy report (frame rate, latency, precision)
+- **AI agents & automation** — Rust / TypeScript / Python agents that do real work end-to-end
+- **Embedded & low-level** — STM32, motor control, sensor integration
+- **Cloudflare Workers / edge backend** — zero-ops APIs, proxies, and tooling
 
 📬 **Contact:** open to remote freelance — [start a discussion](https://github.com/hisayya/hisayya/issues)
 
